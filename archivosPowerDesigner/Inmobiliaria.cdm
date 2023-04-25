@@ -1237,7 +1237,7 @@ CheckModel=Yes
 SaveLinks=Yes
 NameToCode=No</a:ModelOptionsText>
 <a:GlobalObjectID/>
-<a:RepositoryFilename>C:\Users\jmanu\Desktop\Semestre 1-2023\TallerBD\PP\entidadRelacion\Inmobiliaria.cdm</a:RepositoryFilename>
+<a:RepositoryFilename>C:\Users\jmanu\Desktop\Semestre 1-2023\TallerBD\PP\Inmobiliaria\archivosPowerDesigner\Inmobiliaria.cdm</a:RepositoryFilename>
 <c:ConceptualDiagrams>
 <o:ConceptualDiagram Id="o3">
 <a:ObjectID>48462B33-9C18-4ABD-89FC-F715280AC568</a:ObjectID>
@@ -1888,7 +1888,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:RelationshipSymbol Id="o30">
 <a:CreationDate>1679018235</a:CreationDate>
 <a:ModificationDate>1682362923</a:ModificationDate>
-<a:Rect>((-45526,3099), (-24559,7613))</a:Rect>
+<a:Rect>((-45526,3128), (-24559,7613))</a:Rect>
 <a:ListOfPoints>((-45126,4176),(-26471,4176),(-26471,6213))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>4628</a:ArrowStyle>
@@ -2023,7 +2023,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:InheritanceRootLinkSymbol Id="o48">
 <a:CreationDate>1679880831</a:CreationDate>
 <a:ModificationDate>1682362923</a:ModificationDate>
-<a:Rect>((-8819,-2935), (36430,5193))</a:Rect>
+<a:Rect>((-8819,-2935), (36430,5219))</a:Rect>
 <a:ListOfPoints>((36030,4176),(-6044,4176),(-6044,-2535))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
