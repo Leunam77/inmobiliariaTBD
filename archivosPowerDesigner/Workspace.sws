@@ -5,8 +5,8 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model ID="{4F1B4AB8-A1B6-4A31-80AE-EC299F4C5CF4}" Name="Inmobiliaria" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Inmobiliaria.cdm"/>
-		<Model Expanded="Yes" ID="{A3FECA11-459C-44FB-8A8C-500E35E8C1CC}" Name="InmobiliariaLogico" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="InmobiliariaLogico.ldm"/>
-		<Model Expanded="Yes" ID="{052A4ED1-6490-4A47-AAB7-08594A7B6A12}" Name="InmobiliariaFisico" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="InmobiliariaFisico.pdm"/>
+		<Model Expanded="Yes" ID="{4932CE73-E4B3-4C0A-9463-00055AD4F2AA}" Name="InmobiliariaLogico" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="InmobiliariaLogico.ldm"/>
+		<Model Expanded="Yes" ID="{AFA13782-38C7-47DD-AAA8-B189F0843A37}" Name="InmobiliariaFisico" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="InmobiliariaFisico.pdm"/>
 		<Model Expanded="Yes" ID="{D1CFD896-568D-4BC9-9F65-17B2A39BC09F}" Loaded="No" Name="INMOBILIARIA" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="INMOBILIARIA.rqm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
